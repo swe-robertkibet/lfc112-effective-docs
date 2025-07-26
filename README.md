@@ -1,6 +1,8 @@
 # LFC112 Course Notes: Creating Effective Documentation for Developers
 
-<img src="images/undraw_educator_6dgp.svg" alt="Course illustration" width="300" align="right">
+<div align="center">
+  <img src="images/undraw_educator_6dgp.svg" alt="Course illustration" width="400" style="max-width: 100%; height: auto;">
+</div>
 
 This repo contains my personal notes and takeaways from **Creating Effective Documentation for Developers (LFC112)** by The Linux Foundation. I kept referring back to concepts from this course, so I wrote these summaries to solidify what I learned and share it with others who might find it useful.
 
@@ -21,7 +23,9 @@ I want to thank [Judy Bogart](https://www.linkedin.com/in/judy-bogart-977ba0/) f
 
 ## 1. Course Overview
 
-<img src="images/Introduction.svg" alt="Course introduction" width="150" align="left" style="margin-right: 20px;">
+<p align="center">
+  <img src="images/Introduction.svg" alt="Course introduction" width="200" style="max-width: 100%; height: auto; margin: 20px 0;">
+</p>
 
 If you're new here, these notes build on each other naturally. Each section focuses on practical takeaways you can apply immediately to your own documentation projects. The course really changed how I think about documentation - from seeing it as a chore to understanding it as a critical part of making software accessible and usable.
 
@@ -29,7 +33,9 @@ If you're new here, these notes build on each other naturally. Each section focu
 
 ## 2. What Makes a Great API Reference
 
-<img src="images/What Makes a Great API Reference.svg" alt="API Reference illustration" width="200" align="right">
+<p align="center">
+  <img src="images/What Makes a Great API Reference.svg" alt="API Reference illustration" width="250" style="max-width: 100%; height: auto; margin: 20px 0;">
+</p>
 
 After going through Judy Bogart's course, I realized how much I'd been taking API documentation for granted. Sure, I'd used plenty of APIs, but I never really thought about what made some references so much easier to work with than others.
 
@@ -91,7 +97,9 @@ The reference is often the first documentation produced for a new API, and for m
 
 ## 3. Tools for Generating Documentation
 
-<img src="images/Tools for Generating Documentation.svg" alt="Documentation tools illustration" width="180" align="left" style="margin-right: 20px;">
+<p align="center">
+  <img src="images/Tools for Generating Documentation.svg" alt="Documentation tools illustration" width="230" style="max-width: 100%; height: auto; margin: 20px 0;">
+</p>
 
 Before taking this course, I thought documentation generation was pretty straightforward - run a tool on your code comments and get docs. Judy showed me how much more there is to it, and honestly, how much potential these tools have when you use them thoughtfully.
 
@@ -170,7 +178,9 @@ The best approach seems to be treating generated docs as one component of a larg
 
 ## 4. Working with Documentation Professionals
 
-<img src="images/Working with Documentation Professionals.svg" alt="Collaboration illustration" width="200" align="right">
+<p align="center">
+  <img src="images/Working with Documentation Professionals.svg" alt="Collaboration illustration" width="250" style="max-width: 100%; height: auto; margin: 20px 0;">
+</p>
 
 This was probably the most eye-opening section of the course for me. As a developer, I'd always assumed that writing documentation was just part of the job - something you do alongside coding. Judy made a compelling case for why that approach often doesn't work well, and how collaboration with professional writers can make everyone more effective.
 
