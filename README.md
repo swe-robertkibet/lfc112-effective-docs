@@ -14,9 +14,9 @@ If you're new here, start with the articles in order - they build on each other 
 
 ## Articles
 
-- `01-api-reference-document.md` - Key principles for creating API reference documentation that developers actually want to use
-- `02-documentation-generation-tools.md` - Documentation generation tools and how to improve what they produce
-- `03-working-with-documentation-professionals.md` - How developers and technical writers can collaborate effectively on documentation projects
+- [Creating an Ideal API Reference Document](articles/01-api-reference-document.md) - Key principles for creating API reference documentation that developers actually want to use
+- [Documentation Generation Tools](articles/02-documentation-generation-tools.md) - Documentation generation tools and how to improve what they produce  
+- [Working with Documentation Professionals](articles/03-working-with-documentation-professionals.md) - How developers and technical writers can collaborate effectively on documentation projects
 
 ## Disclaimer
 

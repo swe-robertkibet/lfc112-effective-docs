@@ -85,3 +85,8 @@ For open source projects without dedicated project managers, subject-area specia
 What convinced me about this collaborative approach is that it plays to everyone's strengths. Developers focus on what they do best - building software and providing technical accuracy. Writers focus on user experience, information organization, and clear communication.
 
 The result is documentation that's both technically accurate and actually usable, produced more efficiently than if either group tried to do everything themselves. For open source projects especially, this kind of collaboration can really multiply the value of your development efforts by making your software more accessible to new users and contributors.
+
+---
+
+**Navigation:**
+[← Previous: Documentation Generation Tools](02-documentation-generation-tools.md) | [Back to README](../README.md)

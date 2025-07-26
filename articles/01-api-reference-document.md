@@ -55,3 +55,8 @@ For open source projects, Judy recommends encouraging documentation contribution
 What I took away from this section is that good API reference documentation requires thinking like both a developer and a user. You need to understand the technical details well enough to be accurate, but you also need to step back and think about what someone who's never seen this code before would need to know to use it successfully.
 
 The reference is often the first documentation produced for a new API, and for many developers (especially early adopters), it might be the only documentation they use. That puts a lot of pressure on getting it right, but following these principles makes a huge difference in how useful the documentation actually is.
+
+---
+
+**Navigation:**
+[← Back to README](../README.md) | [Next: Documentation Generation Tools →](02-documentation-generation-tools.md)
