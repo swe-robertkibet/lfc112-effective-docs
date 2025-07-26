@@ -1,6 +1,6 @@
 # LFC112 Course Notes: Creating Effective Documentation for Developers
 
-✅ **Completed LFC112** — [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/7409be8f-8ae6-41df-8599-d4db77b68858-robert-kibet-713aace4-a4c5-44fc-80fd-96fa1410fb9f-certificate.pdf)
+✅ **Completed LFC112** — <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/7409be8f-8ae6-41df-8599-d4db77b68858-robert-kibet-713aace4-a4c5-44fc-80fd-96fa1410fb9f-certificate.pdf" target="_blank">View Certificate</a>
 
 <div align="center">
   <img src="images/undraw_educator_6dgp.svg" alt="Course illustration" width="400" style="max-width: 100%; height: auto;">
