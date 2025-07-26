@@ -1,16 +1,16 @@
 # LFC112 Course Notes: Creating Effective Documentation for Developers
 
-This repo contains my personal notes and takeaways from **Creating Effective Documentation for Developers (LFC112)** by The Linux Foundation. I found myself constantly referring back to concepts from this course, so I wrote these article-style summaries to help cement what I learned and share it with others who might find it useful.
+This repo contains my personal notes and takeaways from **Creating Effective Documentation for Developers (LFC112)** by The Linux Foundation. I kept referring back to concepts from this course, so I wrote these article-style summaries to solidify what I learned and share it with others who might find it useful.
 
-The course is designed for developers, technical writers, and project maintainers who want to create better documentation for APIs and open source projects. Judy Bogart, the instructor, brings years of experience in technical writing and API documentation, and her practical approach really clicked with me. If you're struggling with documenting your code or working with technical writers, this course covers a lot of ground you'll find helpful.
+The course targets developers, technical writers, and project maintainers who want to create better documentation for APIs and open source projects. Judy Bogart, the instructor, brings years of experience in technical writing and API documentation, and her practical approach really resonated with me. If you're struggling with documenting your code or working with technical writers, this course addresses many of the challenges you'll face.
 
-I want to thank [Judy Bogart](https://www.linkedin.com/in/judy-bogart-977ba0/) for putting together such a thoughtful course. Her insights into the collaboration between developers and technical writers really opened my eyes to how much better documentation can be when done right. The way she breaks down complex topics made everything feel approachable, even for someone like me who isn't a professional writer.
+I want to thank [Judy Bogart](https://www.linkedin.com/in/judy-bogart-977ba0/) for creating such a thoughtful course. Her insights into the collaboration between developers and technical writers showed me how much better documentation can be when done right. She breaks down complex topics in a way that feels approachable, even for someone like me who isn't a professional writer.
 
 **Official course page**: [Creating Effective Documentation for Developers (LFC112)](https://training.linuxfoundation.org/training/creating-effective-documentation-for-developers-lfc112/)
 
 ## Getting Started
 
-If you're new here, I'd suggest starting with the articles in order - they build on each other naturally. Each one focuses on practical takeaways you can apply right away to your own documentation projects.
+If you're new here, start with the articles in order - they build on each other naturally. Each one focuses on practical takeaways you can apply immediately to your own documentation projects.
 
 ## Articles
 
