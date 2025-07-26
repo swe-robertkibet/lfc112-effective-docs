@@ -14,10 +14,9 @@ If you're new here, start with the articles in order - they build on each other 
 
 ## Articles
 
-- `01-course-intro.md` - Course overview and what to expect from learning about developer documentation
-- `02-ideal-api-reference.md` - Key principles for creating API reference documentation that developers actually want to use
-- `03-doc-tools.md` - Documentation generation tools and how to improve what they produce
-- `04-working-with-writers.md` - How developers and technical writers can collaborate effectively on documentation projects
+- `01-api-reference-document.md` - Key principles for creating API reference documentation that developers actually want to use
+- `02-documentation-generation-tools.md` - Documentation generation tools and how to improve what they produce
+- `03-working-with-documentation-professionals.md` - How developers and technical writers can collaborate effectively on documentation projects
 
 ## Disclaimer
 
